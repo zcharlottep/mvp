@@ -12,7 +12,7 @@
     <Button
         android:id="@+id/getWeather"
         android:gravity="center"
-        android:textSize="21dp"
+        android:textSize="21sp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="GET" />
@@ -21,7 +21,7 @@
         android:id="@+id/city"
         android:layout_below="@id/getWeather"
         android:layout_marginTop="30dp"
-        android:textSize="21dp"
+        android:textSize="21sp"
         android:layout_centerInParent="true"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
